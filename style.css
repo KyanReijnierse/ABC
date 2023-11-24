@@ -23,8 +23,8 @@
 }
 
 html, body {                      /* geldt voor html en body */
-  background-color: #eeeeee;    /* achtergrondkleur lichtgrijs */
-  color: #296e6e;               /* tekstkleur donkergrijs */
+  background-color: #EEEEEE;    /* achtergrondkleur lichtgrijs */
+  color: #303030;               /* tekstkleur donkergrijs */
 }  
 
 div {                             /* geldt voor div */
@@ -89,7 +89,7 @@ nav ul {                        /* <ul> die child is van <nav> */
   list-style-type: none;
   margin: auto;
   padding: 0;
-  background-color: #dddddd;
+  background-color: #5618a7;
   overflow: hidden;
 }
 
